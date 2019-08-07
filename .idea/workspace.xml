@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e05319af-68f5-45a6-8a14-f9bcea13c211" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="86f08b4b-daa7-4067-b50c-e8c984522ad2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/cj.js" beforeDir="false" afterPath="$PROJECT_DIR$/style/cj.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/jquery-1.8.0.js.js" beforeDir="false" afterPath="$PROJECT_DIR$/style/jquery-1.8.0.js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/附件/中奖名单.xls" beforeDir="false" afterPath="$PROJECT_DIR$/附件/中奖名单.xls" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +14,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>tb_table</find>
-      <find>$table</find>
-      <find>北京</find>
-      <find>大兴</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
         <option value="$PROJECT_DIR$/.idea/lucky_draw.iml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
@@ -32,15 +35,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Ozc8gs6qIYFs1tBZQB9lg3mfrj" />
+  <component name="ProjectId" id="1OqeSgrjBL7JcRe6bTpxq27D0sn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,14 +61,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e05319af-68f5-45a6-8a14-f9bcea13c211" name="Default Changelist" comment="" />
-      <created>1564711405700</created>
+      <changelist id="86f08b4b-daa7-4067-b50c-e8c984522ad2" name="Default Changelist" comment="" />
+      <created>1564709555527</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564711405700</updated>
-      <workItem from="1564711409815" duration="597000" />
-      <workItem from="1564715213637" duration="6345000" />
-      <workItem from="1564983713254" duration="892000" />
+      <updated>1564709555527</updated>
+      <workItem from="1564709557962" duration="2215000" />
+      <workItem from="1564983523853" duration="7000" />
     </task>
     <servers />
   </component>
@@ -78,7 +79,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
